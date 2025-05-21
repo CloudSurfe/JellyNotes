@@ -62,5 +62,5 @@ dependencies {
     implementation(libs.hilt.android)
     ksp(libs.hilt.android.compiler)
     implementation(libs.datastore.preferences)
-    implementation("androidx.core:core-splashscreen:1.2.0-beta01")
+    implementation("androidx.core:core-splashscreen:1.2.0-beta02")
 }
